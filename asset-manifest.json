@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc853e3f.css",
+    "main.css": "/static/css/main.b1e64c48.css",
     "main.js": "/static/js/main.b4d4b059.js",
     "static/media/Segoe UI Regular.ttf": "/static/media/Segoe UI Regular.904177516a6c6c681d51.ttf",
     "static/media/Kodchasan-Italic.ttf": "/static/media/Kodchasan-Italic.bf2832ff6a8978c70261.ttf",
@@ -9,11 +9,11 @@
     "static/media/quango.bold.otf": "/static/media/quango.bold.754c5389a4614a8f6cc4.otf",
     "static/media/Workbench-Regular-VariableFont_BLED,SCAN.ttf": "/static/media/Workbench-Regular-VariableFont_BLED,SCAN.4baf3f142008a0c060ec.ttf",
     "index.html": "/index.html",
-    "main.fc853e3f.css.map": "/static/css/main.fc853e3f.css.map",
+    "main.b1e64c48.css.map": "/static/css/main.b1e64c48.css.map",
     "main.b4d4b059.js.map": "/static/js/main.b4d4b059.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc853e3f.css",
+    "static/css/main.b1e64c48.css",
     "static/js/main.b4d4b059.js"
   ]
 }
