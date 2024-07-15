@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0cf26fb1.css",
-    "main.js": "/static/js/main.fec57a6e.js",
+    "main.css": "/static/css/main.1c12eee4.css",
+    "main.js": "/static/js/main.60b54d44.js",
     "static/media/Segoe UI Regular.ttf": "/static/media/Segoe UI Regular.904177516a6c6c681d51.ttf",
     "static/media/Kodchasan-Italic.ttf": "/static/media/Kodchasan-Italic.bf2832ff6a8978c70261.ttf",
     "static/media/Kodchasan-Bold.ttf": "/static/media/Kodchasan-Bold.58b3bde3c0c8c68b20bb.ttf",
@@ -9,11 +9,11 @@
     "static/media/quango.bold.otf": "/static/media/quango.bold.754c5389a4614a8f6cc4.otf",
     "static/media/Workbench-Regular-VariableFont_BLED,SCAN.ttf": "/static/media/Workbench-Regular-VariableFont_BLED,SCAN.4baf3f142008a0c060ec.ttf",
     "index.html": "/index.html",
-    "main.0cf26fb1.css.map": "/static/css/main.0cf26fb1.css.map",
-    "main.fec57a6e.js.map": "/static/js/main.fec57a6e.js.map"
+    "main.1c12eee4.css.map": "/static/css/main.1c12eee4.css.map",
+    "main.60b54d44.js.map": "/static/js/main.60b54d44.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cf26fb1.css",
-    "static/js/main.fec57a6e.js"
+    "static/css/main.1c12eee4.css",
+    "static/js/main.60b54d44.js"
   ]
 }
